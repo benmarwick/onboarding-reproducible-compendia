@@ -28,7 +28,7 @@ Thank you for considering submitting your research compendium for the DataONE re
 * [Useful documents in this repository](#files)
 * [Editors and reviewers](#editors)
 
-# <a href="#why-submit" name="why-submit"></a>Why submit your compendia to rOpenSci?
+# <a href="#why-submit" name="why-submit"></a>Why submit your compendia for DataONE review?
 
 -   First, and foremost, we hope you submit your compendia for review **because you
     value the feedback**.  We aim to provide useful feedback to compendia authors
