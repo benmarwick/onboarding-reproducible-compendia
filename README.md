@@ -1,4 +1,8 @@
 
+**This is a work-in-progress emerging from the [DataONE Prov-a-thon meeting](https://dataoneorg.github.io/provathon-2017/) (August 2017, New Mexico). We're still working on the guidelines, and warmly welcome feedback, especially as a [issue post](https://github.com/benmarwick/onboarding-reproducible-compendia/issues/new).**
+
+------------------------------------------------------------------------
+
 ![d1-logo](d1-logo.jpeg)
 
 DataONE Reproducible Research Compendia Onboarding
