@@ -30,13 +30,13 @@ DataONE accepts compendia that meet our guidelines via a streamlined [onboarding
 
 ## <a href="#lic" name="lic"></a> Licensing
 
-We follow Stodden's [Reproducible Research Standard](https://web.stanford.edu/~vcs/papers/ijclp-STODDEN-2009.pdf) (RRS) which recommends:
+We recommend to follow Stodden's [Reproducible Research Standard](https://web.stanford.edu/~vcs/papers/ijclp-STODDEN-2009.pdf) (RRS) which recommends:
 
 * CC-BY for text and figures (e.g. the narrative text of your article or report), declare this in your README
 * CC-0 for data files, declare this in your README
 * MIT for code, use `devtools::use_mit_license()` to declare this in your DESCRIPTION file
 
-We recognise that your choice of licenses may be constrained by your employer, so we will also accept licenses other than those in the RRS. For example, CC-0 is also acceptable for code. 
+We recognise that your choice of licenses may be constrained by your employer, so we will also accept reasoned usage of licenses other than those in the RRS. For example, CC-0 is also acceptable for code. 
 
 ## <a href="#rme" name="rme"></a> README
 
