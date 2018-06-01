@@ -37,18 +37,18 @@ Authors of contributed compendia essentially maintain the same ownership they ha
 
 In the unlikely scenario that a contributor of a compendium requests removal of their compendium from the suite, we will honour that request.
 
-### Quality commitment 
+### Quality commitment
 
 DataONE strives to develop and promote high quality research. To ensure that your compendium meets our criteria, we review all of our submissions as part of the onboarding process, and even after acceptance will continue to chime in with improvements and bug fixes. 
 
-Despite our best efforts to support contributed software, errors are the responsibility of individual maintainers. Buggy, unmaintained software may be removed from our suite at any time.
+Despite our best efforts to support contributed software, errors are the responsibility of individual maintainers. Buggy, unmaintained software may be removed from our suite at any time by majority vote of the DataONE onboarding team of editors.
 
 ### Maintainer responsiveness
 
 If compendia maintainers do not respond in a timely manner to requests for
  fixes from us, we will remind the maintainer a number
 of times, but after 3 months (or shorter time frame, depending on how
-critical the fix is) we will make the changes ourselves.
+critical the fix is) we may choose to make the changes ourselves or put the onboarding process on hold.
 
 We urge maintainers to make sure they are receiving GitHub notifications, as
 well as making sure emails from DataONE staff are not going to their
