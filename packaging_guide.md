@@ -26,7 +26,7 @@ DataONE accepts compendia that meet our guidelines via a streamlined [onboarding
 * Data files are clearly separated from code and other items in the compendium
 * Small data files (totalling <100 mb) should be in a `/data` directory, and if data are produced during the analysis, the input data should be clearly distinguished from the derived data (e.g. `/data/raw_data` and `/data/derived_data`) 
 * Medium to large data files (>100 mb per file) should be deposited in a trustworthy repository, and referenced in the compendium using a persistent identifier (such as a DOI)
-* Data are documented ...somehow...
+* Data are documented in plain language in a specific section in the README file, or an independent README-data.md is extensive. The data documentation should include references to external or included standards which were applied and mention metadata files included in the compendium, if existing.
 
 ## <a href="#lic" name="lic"></a> Licensing
 
