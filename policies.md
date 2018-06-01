@@ -3,8 +3,8 @@
 ### Compendium submission
 
 * For a compendium to be considered for the DataONE suite, authors must initiate a request on the [onboarding](https://github.com/benmarwick/onboarding-reproducible-compendia) repository.
-* Upon an initial assessment (see Aims and Scope below), an DataONE member will assign a reviewer or follow up with additional steps. This process usually happens within 5 business days.
-* Compendia are reviewed for quality, fit, documentation, clarity and the review process is quite similar to a manuscript review (see our [compendium guide](packaging_guide.md) and [reviewing guide](reviewing_guide.md) for more details). Unlike a manuscript review, this process will be an ongoing conversation.
+* Upon an initial assessment (see Aims and Scope below), a DataONE member will assign a reviewer or follow up with additional steps. This process usually happens within 5 business days.
+* Compendia are reviewed for quality, fit, documentation, and clarity. The review process is quite similar to a manuscript review (see our [compendium guide](packaging_guide.md) and [reviewing guide](reviewing_guide.md) for more details). Unlike a manuscript review, this process will be an ongoing conversation.
 * Once all major issues and questions, and those addressable with reasonable effort, are resolved, the editor assigned to a compendium will make a decision (accept, hold, or reject). Rejections are usually done early (before the review process begins), but in rare cases a compendium may also be rejected after review & revision.
 
 ### <a href="#fit" name="#fit"></a>Aims and Scope
@@ -27,7 +27,7 @@ make exceptions.
 
 ### Role of the DataONE leadership team
 
-Compendium authors will continue to maintain and develop their software after acceptance into DataONE. Unless explicitly added as collaborators, the DataONE team will not interfere much with day to day operations. 
+Compendium authors will continue to maintain and develop their software after acceptance into DataONE. Unless explicitly added as collaborators, the DataONE team will not interfere with day to day operations. 
 
 ### Ownership of compendium
 
