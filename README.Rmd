@@ -77,9 +77,11 @@ this repository and fill out the template.
     They will be asked to provide reviews as comments on your issue within 3 weeks.
 -   We ask that you respond to reviewers' comments within 2 weeks of the
     last-submitted review, but you may make updates to your compendia or respond
-    at any time.  We encourage ongoing conversations between authors and
-    reviewers. See the [reviewing guide](reviewing_guide.md) for more details.
--   Once your compendia is approved, we will provide further instructions on
+    at any time.
+    We encourage ongoing conversations between authors and reviewers.
+    If you update your compendium, please leave a short notice in your issue about the change.
+    See the [reviewing guide](reviewing_guide.md) for more details.
+-   Once your compendium is approved, we will provide further instructions on
     transferring your repository to the DataONE repository.
 
 Our [code of conduct](policies.md/#code-of-conduct) is mandatory for everyone
