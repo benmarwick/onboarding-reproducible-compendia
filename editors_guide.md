@@ -87,4 +87,3 @@ xxx
    as appropriate.
 -   Write a short summary for a regular "new compendia round-up" blog post.
 -   Tweet, etc.
-

@@ -1,6 +1,6 @@
 ## DataONE Policies
 
-### Comendium submission
+### Compendium submission
 
 * For a compendium to be considered for the DataONE suite, authors must initiate a request on the [onboarding](https://github.com/benmarwick/onboarding-reproducible-compendia) repository.
 * Upon an initial assessment (see Aims and Scope below), an DataONE member will assign a reviewer or follow up with additional steps. This process usually happens within 5 business days.
@@ -86,7 +86,7 @@ spam box.
   attention-stealing behavior are not welcome.
 * Avoid the use of personal pronouns in code comments or
   documentation. There is no need to address persons when explaining
-  code (e.g. "When the developer")
+  code (e.g. "When the developer").
 
 _This CoC adapted from the [io.js CoC](https://github.com/iojs/io.js/blob/v1.x/CONTRIBUTING.md#code-of-conduct), adapted from [Rust's 
 CoC](https://github.com/rust-lang/rust/wiki/Note-development-policy#conduct)._
