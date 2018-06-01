@@ -70,7 +70,7 @@ Thank you for considering submitting your research compendium for the DataONE re
 -   Next, [open a new issue](https://github.com/benmarwick/onboarding-reproducible-compendia/issues/new) in
 this repository and fill out the template.
 -   An [editor](#editors) will review your submission within 5 business
-    days and respond with next steps. The editor may assign the compendia to
+    days and respond with next steps (see [editors guide](editors_guide.md) for details). The editor may assign the compendia to
     reviewers, request that the compendia be updated to meet minimal criteria
     before review, or reject the compendia due to lack of fit or overlap.
 -   If your compendia meets minimal criteria, the editor will assign 1-3 reviewers.
