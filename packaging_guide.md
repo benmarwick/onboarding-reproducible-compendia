@@ -61,11 +61,11 @@ We recognise that your choice of licenses may be constrained by your employer, s
 where issue_id is the number of the issue in the onboarding repository. For instance, the badge for [`rtimicropem`](https://github.com/ropensci/rtimicropem) review uses the number 126 since it's the [review issue number](https://github.com/ropensci/onboarding/issues/126). The badge will first indicated "under review" and then "peer-reviewed" once your package has been onboarded, and will link to the review issue.
 
 * If your package connects to a data source or online service, or wraps other software,
-consider that your package README may be the first point of entry for users.  It should provide enough information for users to understand the nature of the data, service, or software, and provide links to other relevant data and documentation.  For instance,
-a README should not merely read, "Provides access to GooberDB," but also include,
-"..., an online repository of Goober sightings in South America.  More
+consider that your package README may be the first point of entry for users. It should provide enough information for users to understand the nature of the data, service, or software, and provide links to other relevant data and documentation. For instance,
+a README should not merely read, _"Provides access to GooberDB,"_ but also include,
+_"..., an online repository of Goober sightings in South America. More
 information about GooberDB, and documentation of database structure and metadata
-can be found at *link*.
+can be found at `link`"_.
 
 * We recommend not creating `README.md` directly, but from a `README.Rmd` file (an R Markdown file) if you have any demonstration code. The advantage of the `.Rmd` file is you can combine text with code that can be easily updated whenever your package is updated.
 
