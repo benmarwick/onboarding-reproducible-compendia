@@ -24,6 +24,7 @@ make exceptions.
 
 * Manuscripts for submission to a scholarly journal
 * Reports for funding agencies and other organisations
+* Theses for submission to a public repository (institutional or [Thesis Commons](https://thesiscommons.org/))
 
 ### Role of the DataONE leadership team
 
