@@ -26,17 +26,17 @@ DataONE accepts compendia that meet our guidelines via a streamlined [onboarding
 * Data files are clearly separated from code and other items in the compendium
 * Small data files (totalling <100 mb) should be in a `/data` directory, and if data are produced during the analysis, the input data should be clearly distinguished from the derived data (e.g. `/data/raw_data` and `/data/derived_data`) 
 * Medium to large data files (>100 mb per file) should be deposited in a trustworthy repository, and referenced in the compendium using a persistent identifier (such as a DOI)
-* Data are documented ...somehow...
+* Data are documented in plain language in a specific section in the README file, or an independent README-data.md is extensive. The data documentation should include references to external or included standards which were applied and mention metadata files included in the compendium, if existing.
 
 ## <a href="#lic" name="lic"></a> Licensing
 
-We follow Stodden's [Reproducible Research Standard](https://web.stanford.edu/~vcs/papers/ijclp-STODDEN-2009.pdf) (RRS) which recommends:
+We recommend to follow Stodden's [Reproducible Research Standard](https://web.stanford.edu/~vcs/papers/ijclp-STODDEN-2009.pdf) (RRS) which recommends:
 
 * CC-BY for text and figures (e.g. the narrative text of your article or report), declare this in your README
 * CC-0 for data files, declare this in your README
 * MIT for code, use `devtools::use_mit_license()` to declare this in your DESCRIPTION file
 
-We recognise that your choice of licenses may be constrained by your employer, so we will also accept licenses other than those in the RRS. For example, CC-0 is also acceptable for code. 
+We recognise that your choice of licenses may be constrained by your employer, so we will also accept reasoned usage of licenses other than those in the RRS. For example, CC-0 is also acceptable for code. 
 
 ## <a href="#rme" name="rme"></a> README
 
@@ -61,13 +61,13 @@ We recognise that your choice of licenses may be constrained by your employer, s
 where issue_id is the number of the issue in the onboarding repository. For instance, the badge for [`rtimicropem`](https://github.com/ropensci/rtimicropem) review uses the number 126 since it's the [review issue number](https://github.com/ropensci/onboarding/issues/126). The badge will first indicated "under review" and then "peer-reviewed" once your package has been onboarded, and will link to the review issue.
 
 * If your package connects to a data source or online service, or wraps other software,
-consider that your package README may be the first point of entry for users.  It should provide enough information for users to understand the nature of the data, service, or software, and provide links to other relevant data and documentation.  For instance,
-a README should not merely read, "Provides access to GooberDB," but also include,
-"..., an online repository of Goober sightings in South America.  More
+consider that your package README may be the first point of entry for users. It should provide enough information for users to understand the nature of the data, service, or software, and provide links to other relevant data and documentation. For instance,
+a README should not merely read, _"Provides access to GooberDB,"_ but also include,
+_"..., an online repository of Goober sightings in South America. More
 information about GooberDB, and documentation of database structure and metadata
-can be found at *link*.
+can be found at `link`"_.
 
-* We recommend not creating `README.md` directly, but from a `README.Rmd` file (an Rmarkdown file) if you have any demonstration code. The advantage of the `.Rmd` file is you can combine text with code that can be easily updated whenever your package is updated.
+* We recommend not creating `README.md` directly, but from a `README.Rmd` file (an R Markdown file) if you have any demonstration code. The advantage of the `.Rmd` file is you can combine text with code that can be easily updated whenever your package is updated.
 
 * Extensive examples should be kept for a vignette. If you want to make the vignettes more accessible before installing the package, we suggest creating a website for your package with [`pkgdown`](https://github.com/hadley/pkgdown)
 

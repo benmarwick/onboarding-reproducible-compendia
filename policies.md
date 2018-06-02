@@ -1,10 +1,10 @@
 ## DataONE Policies
 
-### Comendium submission
+### Compendium submission
 
 * For a compendium to be considered for the DataONE suite, authors must initiate a request on the [onboarding](https://github.com/benmarwick/onboarding-reproducible-compendia) repository.
-* Upon an initial assessment (see Aims and Scope below), an DataONE member will assign a reviewer or follow up with additional steps. This process usually happens within 5 business days.
-* Compendia are reviewed for quality, fit, documentation, clarity and the review process is quite similar to a manuscript review (see our [compendium guide](packaging_guide.md) and [reviewing guide](reviewing_guide.md) for more details). Unlike a manuscript review, this process will be an ongoing conversation.
+* Upon an initial assessment (see Aims and Scope below), a DataONE member will assign a reviewer or follow up with additional steps. This process usually happens within 5 business days.
+* Compendia are reviewed for quality, fit, documentation, and clarity. The review process is quite similar to a manuscript review (see our [compendium guide](packaging_guide.md) and [reviewing guide](reviewing_guide.md) for more details). Unlike a manuscript review, this process will be an ongoing conversation.
 * Once all major issues and questions, and those addressable with reasonable effort, are resolved, the editor assigned to a compendium will make a decision (accept, hold, or reject). Rejections are usually done early (before the review process begins), but in rare cases a compendium may also be rejected after review & revision.
 
 ### <a href="#fit" name="#fit"></a>Aims and Scope
@@ -27,7 +27,7 @@ make exceptions.
 
 ### Role of the DataONE leadership team
 
-Compendium authors will continue to maintain and develop their software after acceptance into DataONE. Unless explicitly added as collaborators, the DataONE team will not interfere much with day to day operations. 
+Compendium authors will continue to maintain and develop their software after acceptance into DataONE. Unless explicitly added as collaborators, the DataONE team will not interfere with day to day operations. 
 
 ### Ownership of compendium
 
@@ -37,18 +37,18 @@ Authors of contributed compendia essentially maintain the same ownership they ha
 
 In the unlikely scenario that a contributor of a compendium requests removal of their compendium from the suite, we will honour that request.
 
-### Quality commitment 
+### Quality commitment
 
 DataONE strives to develop and promote high quality research. To ensure that your compendium meets our criteria, we review all of our submissions as part of the onboarding process, and even after acceptance will continue to chime in with improvements and bug fixes. 
 
-Despite our best efforts to support contributed software, errors are the responsibility of individual maintainers. Buggy, unmaintained software may be removed from our suite at any time.
+Despite our best efforts to support contributed software, errors are the responsibility of individual maintainers. Buggy, unmaintained software may be removed from our suite at any time by majority vote of the DataONE onboarding team of editors.
 
 ### Maintainer responsiveness
 
 If compendia maintainers do not respond in a timely manner to requests for
  fixes from us, we will remind the maintainer a number
 of times, but after 3 months (or shorter time frame, depending on how
-critical the fix is) we will make the changes ourselves.
+critical the fix is) we may choose to make the changes ourselves or put the onboarding process on hold.
 
 We urge maintainers to make sure they are receiving GitHub notifications, as
 well as making sure emails from DataONE staff are not going to their
@@ -77,7 +77,7 @@ spam box.
   excludes people in socially marginalized groups.
 * Private harassment is also unacceptable. No matter who you are, if
   you feel you have been or are being harassed or made uncomfortable
-  by a community member, please contact us at info@ropensci.org 
+  by a community member, please contact us at support@dataone.org 
   immediately with a capture (log, photo, email) of the harassment if possible. 
   Whether you're a regular contributor or a newcomer, we 
   care about making this community a safe place for you and we've got
@@ -86,7 +86,7 @@ spam box.
   attention-stealing behavior are not welcome.
 * Avoid the use of personal pronouns in code comments or
   documentation. There is no need to address persons when explaining
-  code (e.g. "When the developer")
+  code (e.g. "When the developer").
 
 _This CoC adapted from the [io.js CoC](https://github.com/iojs/io.js/blob/v1.x/CONTRIBUTING.md#code-of-conduct), adapted from [Rust's 
 CoC](https://github.com/rust-lang/rust/wiki/Note-development-policy#conduct)._

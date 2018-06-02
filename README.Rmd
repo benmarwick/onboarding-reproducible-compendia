@@ -63,30 +63,32 @@ Thank you for considering submitting your research compendium for the DataONE re
 
 -   Consult our [policies](policies.md) see if your compendia meets our
     criteria for review
-    -    If you are unsure whether a compendia meets our criteria, feel free to open
+    -    If you are unsure whether a compendium meets our criteria, feel free to open
          an issue as a pre-submission inquiry to ask if the compendium is appropriate.
 -   Follow our [compendia style guide](packaging_guide.md) to ensure your compendia
   meets our style and quality criteria.
 -   Next, [open a new issue](https://github.com/benmarwick/onboarding-reproducible-compendia/issues/new) in
 this repository and fill out the template.
 -   An [editor](#editors) will review your submission within 5 business
-    days and respond with next steps. The editor may assign the compendia to
+    days and respond with next steps (see [editors guide](editors_guide.md) for details). The editor may assign the compendia to
     reviewers, request that the compendia be updated to meet minimal criteria
     before review, or reject the compendia due to lack of fit or overlap.
--   If your compendia meets minimal criteria, the editor will assign  1-3 reviewers.
+-   If your compendia meets minimal criteria, the editor will assign 1-3 reviewers.
     They will be asked to provide reviews as comments on your issue within 3 weeks.
 -   We ask that you respond to reviewers' comments within 2 weeks of the
     last-submitted review, but you may make updates to your compendia or respond
-    at any time.  We encourage ongoing conversations between authors and
-    reviewers. See the [reviewing guide](reviewing_guide.md) for more details.
--   Once your compendia is approved, we will provide further instructions on
+    at any time.
+    We encourage ongoing conversations between authors and reviewers.
+    If you update your compendium, please leave a short notice in your issue about the change.
+    See the [reviewing guide](reviewing_guide.md) for more details.
+-   Once your compendium is approved, we will provide further instructions on
     transferring your repository to the DataONE repository.
 
 Our [code of conduct](policies.md/#code-of-conduct) is mandatory for everyone
 involved in our review process.
 
 Our review process is always in development, and we encourage feedback and discussion
-on how to improve the process on our [issue tracker](https://github.com/benmarwick/onboarding-reproducible-compendia/issues/1)
+on how to improve the process on our [issue tracker](https://github.com/benmarwick/onboarding-reproducible-compendia/issues/1).
 
 # <a href="#editors" name="editors"></a> Useful documents in this repository
 

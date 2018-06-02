@@ -10,7 +10,7 @@ Hi, this is [EDITOR]. [FRIENDLY BANTER]. I'm writing to ask if you would be will
 
 The compendium, [PACKAGE] by [AUTHOR(S)], does [FUNCTION]. You can find it on GitHub here: [REPO LINK]. We conduct our open review process via GitHub as well, here: [ONBOARDING ISSUE]
 
-If you accept, note that we ask reviewers to complete reviews in three weeks. (We’ve found it takes a similar amount of time to review a package as an academic paper.) 
+If you accept, note that we ask reviewers to complete reviews in three weeks. (We’ve found it takes a similar amount of time to review a package as an academic paper, but it's a lot more fun because it's a conversation and more instructive since it involves data and code rather just another person's findings in a text.)
 
 Our [reviewers guide] details what we look for in a compendium review, and includes links to example reviews. Our standards are detailed in our [compendium guide], and we provide reviewer [template] for you to use. If you have questions or feedback, feel free to ask me or post to the [DataONE forum].
 
