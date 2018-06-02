@@ -106,12 +106,8 @@ on how to improve the process on our [issue tracker](https://github.com/benmarwi
 
 # <a href="#editors" name="editors"></a> Editors and reviewers
 
-### Associate editors
-
 DataONE's onboarding process is run by:
 
 * [Ben Marwick](https://github.com/benmarwick/), University of Washington
 * [Carl Boettiger](https://github.com/cboettig), UC Berkeley
-
-
-
+* [Daniel Nüst](https://github.com/cboettig), University of Münster
